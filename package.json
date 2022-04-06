@@ -1,0 +1,22 @@
+{
+  "name": "jest_unit-testing_examples",
+  "version": "1.0.0",
+  "description": "Примеры тестирования на Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-Shaitanov/Jest_unit-testing_examples.git"
+  },
+  "author": "Vladislav Shaitanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad-Shaitanov/Jest_unit-testing_examples/issues"
+  },
+  "homepage": "https://github.com/Vlad-Shaitanov/Jest_unit-testing_examples#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
